@@ -1,5 +1,6 @@
 package hello.SpringBasic;
 
+import hello.SpringBasic.aop.TimeTraceAop;
 import hello.SpringBasic.repository.*;
 import hello.SpringBasic.service.MemberService;
 import org.springframework.beans.factory.annotation.Autowired;
